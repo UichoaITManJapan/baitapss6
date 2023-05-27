@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+h3{
+    font-size: 20px;
+    font-weight: 700;
+}
+li{
+    margin-left: 30px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+iframe,p{
+    margin-left: 30px;
+}
+p{
+    color: gray;
+}
+.late{
+    margin: 0;
+}

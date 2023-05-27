@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+h2{
+    font-size: 30px;
+    margin-top:15px;
+    margin-bottom: 30px;
+}
+ul {
+    margin: 0 40px;
+}
+ul li{
+    margin: 20px;
+}
+iframe{
+    margin: 0 20px;
+}
+li{
+    font-size: 20px;
+    font-weight: 700;
+}
